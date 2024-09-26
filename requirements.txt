@@ -1,4 +1,4 @@
-streamlit-nightly
+streamlit-nightly==1.16.1.dev20230105
 altair>=5.0.0
 numpy
 pandas
